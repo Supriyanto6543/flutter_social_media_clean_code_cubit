@@ -17,5 +17,6 @@ You can watching tutorial step by step on udemy, here are you will learn from co
 6. Flutter Bloc (State management)
 7. Pull to refresh
 8. Load more / endless scrolling pagination
-9. And more
+9. Flutter lints analisis options
+10. And more
 
