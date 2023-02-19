@@ -1,16 +1,26 @@
-# clean_unlcebob
+# Social Media Flutter 
 
-A new Flutter project.
+This project build using flutter and api using: https://dummyapi.io/. </br>
+In this project i just implement with uncle bob clean architecture concept here: 
 
-## Getting Started
+- [Clean code concept by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+<p align="center">
+    <img src="https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg" style="width: 87%;">
+</p>
 
-This project is a starting point for a Flutter application.
+In this project consist there main package that references to clean code by uncle bob, here for project structure:
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/33416633/178166032-bc422d47-373f-46cb-ac76-f57cd96522e9.PNG" style="width: 55%;">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+In presentation I am using bloc/cubit for state management, if you are using other state management you can
+change bloc directory with other.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In order to use this project please follow these step
+<ul>
+    <li> run this command: git clone https://github.com/Supriyanto6543/social-media-app-flutter.git </li>
+    <li> open using Android Studio or Visual Studio Code </li>
+</ul>
+
