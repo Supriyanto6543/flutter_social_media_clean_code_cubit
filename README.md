@@ -1,6 +1,6 @@
 # Social Media Flutter 
 
-This project build using flutter and api using: https://dummyapi.io/. </br>
+This project built using flutter and api using: https://dummyapi.io/. </br>
 In this project i just implement with uncle bob clean architecture concept here: 
 
 - [Clean code concept by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
@@ -12,15 +12,3 @@ In this project consist there main package that references to clean code by uncl
 <p align="center">
     <img src="https://user-images.githubusercontent.com/33416633/178166032-bc422d47-373f-46cb-ac76-f57cd96522e9.PNG" style="width: 55%;">
 </p>
-
-In presentation I am using bloc/cubit for state management, if you are using other state management you can
-change bloc directory with other.
-
-### Getting Started
-
-In order to use this project please follow these step
-<ul>
-    <li> run this command: git clone https://github.com/Supriyanto6543/social-media-app-flutter.git </li>
-    <li> open using Android Studio or Visual Studio Code </li>
-</ul>
-
