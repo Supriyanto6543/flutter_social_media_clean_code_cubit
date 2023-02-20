@@ -20,3 +20,8 @@ You can watching tutorial step by step on udemy, here are you will learn from co
 9. Flutter lints analisis options
 10. And more
 
+Screenshot:
+</br>
+<p align="center">
+ <a href="https://www.udemy.com/course/tutorial-flutter-371-clean-code-architecture-uncle-bob" target="_blank"> <img src="https://user-images.githubusercontent.com/33416633/219987761-f98e8c6c-a963-4196-8cd9-7dd21b2fc3cf.png" alt="Clean Architecture" style="vertical-align:top; margin:4px"> </a>
+</p>
